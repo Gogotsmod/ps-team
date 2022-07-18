@@ -29,16 +29,6 @@ ${mundur}
  • Date : ${tanggal(new Date())}
  • Runtime : ${runtime(process.uptime())}
 
-*USER INFO*
- • Name : ${pushname !== undefined ? pushname : '-'}
- • Status : ${isCreator ? 'Owner' : isPremium ? 'Premium' : 'Free'}
- • Limit : ${isCreator ? '-' : isPremium ? 'Unlimited' : getLimit(sender, limitCount, limit)}
- • Limit Game : ${isCreator ? '-' : cekGLimit(sender, gcount, glimit)}
- • Balance : ${toCommas(getBalance(sender, balance))}
-
-
-
-
 🛡️ FF
 ==============
 🔰CHEAT FREE FIRE V1.91X🔰
@@ -103,18 +93,12 @@ Instagram: https://www.instagram.com/tv/CaRCteQAuqb/?utm_medium=copy_link
 ==============
 Telegram: https://t.me/PSTeamADM
 
-🛡️PEMBAYARAN
-==============
-*ALL PAYMENT TEKAN TOMBOL DONASI*
-
-
-
 
 Admin akan membalas pesan anda secepatnya🙏
 `
 }
 
-exports.donate = (pushname, ownerNumber) => {
+exports.qris = (pushname, ownerNumber) => {
     return`Pembayaran 
 Dana ovo gopay
 Nomer : 083846077142
