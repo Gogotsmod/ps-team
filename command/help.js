@@ -36,8 +36,8 @@ ${mundur}
  • Limit Game : ${isCreator ? '-' : cekGLimit(sender, gcount, glimit)}
  • Balance : ${toCommas(getBalance(sender, balance))}
 
-🔰Hallo, cheat VIP Redy terus ya bro.
-Untuk mengetahui list harga bisa ketik di bawah ini🔰
+
+
 
 🛡️ FF
 ==============
@@ -105,9 +105,9 @@ Telegram: https://t.me/PSTeamADM
 
 🛡️PEMBAYARAN
 ==============
-*ALL PAYMENT TEKAN TOMBOL DOANSI*
-🛡️FOLLOWERS (COMINGSOON) 
-==============
+*ALL PAYMENT TEKAN TOMBOL DONASI*
+
+
 
 
 Admin akan membalas pesan anda secepatnya🙏
