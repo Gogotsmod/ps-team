@@ -93,7 +93,7 @@ Instagram: https://www.instagram.com/tv/CaRCteQAuqb/?utm_medium=copy_link
 ==============
 Telegram: https://t.me/PSTeamADM
 
-
+Chat ke owner Ketik owner
 Admin akan membalas pesan anda secepatnya🙏
 `
 }
