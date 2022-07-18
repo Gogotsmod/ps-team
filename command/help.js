@@ -114,7 +114,7 @@ Admin akan membalas pesan anda secepatnya🙏
 `
 }
 
-exports.qris = (pushname, ownerNumber) => {
+exports.donate = (pushname, ownerNumber) => {
     return`Pembayaran 
 Dana ovo gopay
 Nomer : 083846077142
